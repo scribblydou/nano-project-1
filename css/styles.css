@@ -1,7 +1,11 @@
 body {
-	font-family: 'Quicksand', sans-serif;
-	color: #747704;
+	font-family: 'Quicksand', sans-serif;	
 	font-weight: 400;
+	background-color:#f3e7d2 ;	
+}
+	
+h1,h2,h3,h4,p {
+	color: #747704;
 }
 
 .text-muted {
@@ -12,7 +16,13 @@ body {
 	font-weight: 300;
 }
 
+.title-logo {
+	display: flex;
+	margin-top: 20px;
+}
+
 .title-super {
 	font-size: 50px;
+	margin-top: 35px;
 }
 
