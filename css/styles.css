@@ -3,8 +3,14 @@ body {
 	font-weight: 400;
 	background-color:#f3e7d2 ;	
 }
+
+@media only screen and (max-width:1000px) {
+	h1, h2, h3, h4, p {
+		text-align: center;
+	}
+}
 	
-h1,h2,h3,h4,p {
+h1, h2, h3, h4, p {
 	color: #747704;
 }
 
